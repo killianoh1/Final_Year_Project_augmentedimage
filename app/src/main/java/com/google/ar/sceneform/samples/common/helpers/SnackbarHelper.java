@@ -23,6 +23,9 @@ import android.view.View;
  * Helper to manage the sample snackbar. Hides the Android boilerplate code, and exposes simpler
  * methods.
  */
+
+// This is a new comment for branches
+
 public final class SnackbarHelper {
   private static final int BACKGROUND_COLOR = 0xbf323232;
   private static final SnackbarHelper THE_INSTANCE = new SnackbarHelper();
